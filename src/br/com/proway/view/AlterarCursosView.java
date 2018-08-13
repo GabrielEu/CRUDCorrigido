@@ -74,6 +74,7 @@ public class AlterarCursosView extends JFrame {
 				
 			}
 		});
+		
 		btnAlterarCurso.setFont(new Font("Tahoma", Font.PLAIN, 16));
 		btnAlterarCurso.setBounds(10, 167, 135, 33);
 		contentPane.add(btnAlterarCurso);
